@@ -1,1 +1,3 @@
-public main
+public calss Test{
+  
+}
